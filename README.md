@@ -1,6 +1,6 @@
 # Hi, I’m Jaishree (JAIdamodharan) 👋
 
-**CS Student at VIT Vellore | Web Developer | AI & ML Enthusiast**
+**MTech Software Engineering Student at VIT Vellore | Web Developer | AI & ML Enthusiast**
 
 ---
 
