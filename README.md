@@ -27,6 +27,7 @@
 - **Front-end**: HTML, CSS, JavaScript
 - **Back-end**: PHP, MySQL
 - **AI / NLP**: spaCy, BART, Python, Jupyter Notebooks
+- **App Development**: Java, Flutter
 - **Others**: Git, Markdown
 
 ---
