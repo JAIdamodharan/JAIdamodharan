@@ -19,8 +19,6 @@
 - **Portfolio**: My personal website crafted in CSS.
 - **DSA-Practice**: Java-based data structures & algorithms practice.
 
-*(Link to repositories for each project)*
-
 ---
 
 ### Technologies & Tools
