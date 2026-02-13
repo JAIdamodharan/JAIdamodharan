@@ -1,4 +1,4 @@
-# Hi, I’m Jaishree (JAIdamodharan) 
+# Hi, I’m Jaishree 
 
 **MTech Software Engineering Student at VIT Vellore | Web Developer | AI & ML Enthusiast**
 
